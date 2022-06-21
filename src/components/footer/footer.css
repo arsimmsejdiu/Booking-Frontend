@@ -21,3 +21,10 @@
   color: #003580;
   cursor: pointer;
 }
+
+.fText {
+  color: #003580;
+  font-size: 12px;
+  font-weight: bold;
+  padding-bottom: 10px;
+}
